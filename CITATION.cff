@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Prototype Open Museum"
+message: "If you use this project in your research, please cite it as below."
+type: software
+authors:
+  - family-names: "Worthington"
+    given-names: "Simon"
+    affiliation: "HsH"
+repository-code: "https://github.com/mrchristian/prototype"
+url: "https://mrchristian.github.io/prototype/"
+abstract: "A Quarto-based web application for exploring and visualizing Wikidata museum exhibition items and their relationships as interactive graphs."
+keywords:
+  - wikidata
+  - sparql
+  - graph-visualization
+  - museum
+  - exhibitions
+  - quarto
+license: MIT
+version: 0.1.0
+date-released: 2026-05-07
