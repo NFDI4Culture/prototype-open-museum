@@ -6,6 +6,7 @@ authors:
   - family-names: "Worthington"
     given-names: "Simon"
     affiliation: "HsH"
+    orcid: "https://orcid.org/0000-0002-8579-9717"
 repository-code: "https://github.com/mrchristian/prototype"
 url: "https://mrchristian.github.io/prototype/"
 abstract: "A Quarto-based web application for exploring and visualizing Wikidata museum exhibition items and their relationships as interactive graphs."
